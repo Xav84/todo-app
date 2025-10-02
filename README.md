@@ -49,7 +49,7 @@ This app allows you to create, edit, complete, filter, and delete todos while pe
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Xav84/todo-app.git
 cd your-repo
 
 2️⃣ Backend setup
