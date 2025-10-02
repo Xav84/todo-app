@@ -37,8 +37,11 @@ This app allows you to create, edit, complete, filter, and delete todos while pe
 ---
 
 ## 📸 Screenshots
-
-> *(Add screenshots here — you can drag and drop images into this README after uploading them to GitHub)*
+<p align="center">
+<img width="300" height="790" alt="2025-10-02_17h07_22" src="https://github.com/user-attachments/assets/c0d88d56-0f36-4aee-beb7-db132839b934" />
+<img width="300" height="791" alt="2025-10-02_17h08_34" src="https://github.com/user-attachments/assets/ddd2eaa5-d76f-4657-80df-db991292105f" />
+<img width="300" height="788" alt="2025-10-02_17h09_00" src="https://github.com/user-attachments/assets/1dd5d964-19b6-4f13-9945-88b380862054" />
+</p>
 
 ---
 
@@ -81,6 +84,14 @@ todo-app/
 - **DELETE** `/todos/:id` → Delete a todo  
 - **GET** `/todos/count` → Get total count  
 
+## 🚀 Roadmap
+
+Planned features for future versions:
+
+- 🔐 **Authentication system** (login & register)
+- 👤 **User-specific tasks**: each user will have their own private to-do list
+- 🛣️ **Routing** with protected and public routes
+- 🛠️ **Admin section**: manage users and their tasks (CRUD operations, roles, permissions)
 
 📜 License
 
