@@ -1,0 +1,49 @@
+# ------------------
+# Général
+# ------------------
+# Fichiers de log
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Fichiers d'environnement (variables secrètes)
+.env
+.env.local
+.env.*.local
+
+# Fichiers/dossiers spécifiques à l'OS ou l'éditeur
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ------------------
+# Dépendances et builds
+# ------------------
+
+# Dépendances (node_modules)
+todo-frontend/node_modules
+todo-backend/node_modules
+
+# Dossiers de compilation
+todo-frontend/build
+todo-frontend/dist
+todo-backend/dist
+
+# Autres dossiers de build Express
+# Utile si vous compilez votre code Express (ex: TypeScript)
+server/dist
